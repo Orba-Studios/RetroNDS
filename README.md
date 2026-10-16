@@ -43,6 +43,9 @@ To host your emulator online for free:
 3. Click **LOAD GAME** to initialize the WebAssembly emulation core inside the top screen frame.
 
 ---
+## Test It Out!
+Test it out at https://imghst.vnavsite.nl/
+
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
